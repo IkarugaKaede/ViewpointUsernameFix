@@ -9,7 +9,7 @@
 3. 用其中的文件覆盖创意工坊 Viewpoint 模组目录：
 
    ```text
-   <Steam库>\steamapps\workshop\content\108600\3809306528\mods\Viewpoint
+   <Steam库>\steamapps\workshop\content\108600\3809306528\mods
    ```
 
 > 临时使用gpt修复中文用户名问题，仅在本人测试管用，不保证百分百有效
