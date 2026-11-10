@@ -15,4 +15,5 @@
 > 临时使用gpt修复中文用户名问题，仅在本人测试管用，不保证百分百有效
 
   创意工坊更新模组后可能覆盖此修复
-  10.16日12:43viewpoint模组更新的热补丁可能导致替换失效，可重新替换.jar文件
+  - 10.16日12:43viewpoint模组更新的热补丁可能导致替换失效，可重新替换.jar文件
+  - viewpoint0.1.7更新后的替换文件已上传，请使用最新版本 替换目录D:\SteamLibrary\steamapps\workshop\content\108600\3809306528\mods\Viewpoint\42\media\java\client\Viewpoint.jar
